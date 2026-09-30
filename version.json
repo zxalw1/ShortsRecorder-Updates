@@ -1,7 +1,7 @@
 {
-  "version": "0.1.9.8",
-  "downloadUrl": "https://github.com/zxalw1/ShortsRecorder-Updates/releases/download/v0.1.9.8/ShortsRecorder_0.1.9.8_Portable.zip",
-  "sha256": "086881ce53e0da1403c1b539e83dbbf175b941e5ad03a97037dac8eaaed1c7f7",
+  "version": "0.1.9.10",
+  "downloadUrl": "https://github.com/zxalw1/ShortsRecorder-Updates/releases/download/v0.1.9.10/ShortsRecorder_0.1.9.10_Portable.zip",
+  "sha256": "97b4b77bc51ea6ac7ac9af44eac1c0101d154eae2eb6dc8a3e60a2b90b77d081",
   "mandatory": false,
-  "releaseNotes": "다크모드 입력창 및 드롭다운 가독성 개선"
+  "releaseNotes": "UI 정리, 프리셋 헤더 표시 개선, 녹화 종료 후 저장 폴더 자동 열기"
 }
