@@ -1,7 +1,7 @@
 {
-  "version": "0.1.9.5",
-  "downloadUrl": "https://github.com/zxalw1/ShortsRecorder-Updates/releases/download/v0.1.9.5/ShortsRecorder_0.1.9.5_Portable.zip",
-  "sha256": "f6e67fd202325f37bb6a7f52e52adf5e7de07d550c6cf336f64e688ff7aff559",
+  "version": "0.1.9.6",
+  "downloadUrl": "https://github.com/zxalw1/ShortsRecorder-Updates/releases/download/v0.1.9.6/ShortsRecorder_0.1.9.6_Portable.zip",
+  "sha256": "b54820b6d42fa8c98d505009ad24afe97dfb73f22d7fbe2331581584ed44e893",
   "mandatory": false,
-  "releaseNotes": "자동업데이트 동작 테스트 버전"
+  "releaseNotes": "로블록스 쇼츠 캡처 호환성 개선 및 라이트/다크 모드 추가"
 }
