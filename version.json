@@ -1,7 +1,7 @@
 {
-  "version": "0.1.9.17",
-  "downloadUrl": "https://github.com/zxalw1/ShortsRecorder-Updates/releases/download/v0.1.9.17/ShortsRecorder_0.1.9.17_Portable.zip",
-  "sha256": "9ba95a13e4f50fd2d56296794809f8967d5245935c901ba4c40ed3fa96407d99",
+  "version": "0.1.9.18",
+  "downloadUrl": "https://github.com/zxalw1/ShortsRecorder-Updates/releases/download/v0.1.9.18/ShortsRecorder_0.1.9.18_Portable.zip",
+  "sha256": "35a8b53f4eac2909cb07194ac1512ef7d258b8e34cb97b16b85a55db5495aba9",
   "mandatory": false,
-  "releaseNotes": "PC/게임 소리 출력 장치 선택 기능 추가, Windows 기본 출력 장치 자동 선택 및 장치 오류 시 fallback 개선, 멀티모니터 환경에서 전체화면 녹화 시 녹화할 모니터를 클릭으로 선택하도록 개선"
+  "releaseNotes": "전체화면 녹화 시 녹화 테두리와 REC/FPS 오버레이가 영상에 포함되지 않도록 수정, 듀얼/멀티모니터 선택 안내를 각 모니터 중앙에 표시하도록 개선"
 }
