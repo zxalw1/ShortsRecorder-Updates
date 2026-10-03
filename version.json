@@ -1,7 +1,7 @@
 {
-  "version": "0.1.9.14",
-  "downloadUrl": "https://github.com/zxalw1/ShortsRecorder-Updates/releases/download/v0.1.9.14/ShortsRecorder_0.1.9.14_Portable.zip",
-  "sha256": "92d72b30bba4dc55ff9a38d5944ed79186719e7b0e015023f294b2bee6e2e0aa",
+  "version": "0.1.9.17",
+  "downloadUrl": "https://github.com/zxalw1/ShortsRecorder-Updates/releases/download/v0.1.9.17/ShortsRecorder_0.1.9.17_Portable.zip",
+  "sha256": "9ba95a13e4f50fd2d56296794809f8967d5245935c901ba4c40ed3fa96407d99",
   "mandatory": false,
-  "releaseNotes": "녹화 시작 안정성 개선, 빈 MP4 생성 방지, 첫 영상 프레임 검증, 인코더 실패 시 진단 강화 및 안전한 CPU 인코더 자동 재시도"
+  "releaseNotes": "PC/게임 소리 출력 장치 선택 기능 추가, Windows 기본 출력 장치 자동 선택 및 장치 오류 시 fallback 개선, 멀티모니터 환경에서 전체화면 녹화 시 녹화할 모니터를 클릭으로 선택하도록 개선"
 }
