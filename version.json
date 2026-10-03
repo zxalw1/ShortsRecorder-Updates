@@ -1,7 +1,7 @@
 {
-  "version": "0.1.9.12",
-  "downloadUrl": "https://github.com/zxalw1/ShortsRecorder-Updates/releases/download/v0.1.9.12/ShortsRecorder_0.1.9.12_Portable.zip",
-  "sha256": "fdcc562758099a62f91f278795b630e5bc40098e778fa336308c259e6f766f24",
+  "version": "0.1.9.14",
+  "downloadUrl": "https://github.com/zxalw1/ShortsRecorder-Updates/releases/download/v0.1.9.14/ShortsRecorder_0.1.9.14_Portable.zip",
+  "sha256": "92d72b30bba4dc55ff9a38d5944ed79186719e7b0e015023f294b2bee6e2e0aa",
   "mandatory": false,
-  "releaseNotes": "CPU 부하 개선, 마이크/게임소리 분리 녹음, 자막 시간 복사 및 이동 기능, 전역 단축키 개선, Roblox 충돌 방지를 위한 기본 단축키 변경"
+  "releaseNotes": "녹화 시작 안정성 개선, 빈 MP4 생성 방지, 첫 영상 프레임 검증, 인코더 실패 시 진단 강화 및 안전한 CPU 인코더 자동 재시도"
 }
