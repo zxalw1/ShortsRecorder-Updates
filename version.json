@@ -1,7 +1,7 @@
 {
-  "version": "0.1.9.21",
-  "downloadUrl": "https://github.com/zxalw1/ShortsRecorder-Updates/releases/download/v0.1.9.21/ShortsRecorder_0.1.9.21_Portable.zip",
-  "sha256": "182e7ea2061a110b00ddb26afcfd6feb31cc7da5464b32b6ffe5c4ec29e72d24",
+  "version": "0.1.9.22",
+  "downloadUrl": "https://github.com/zxalw1/ShortsRecorder-Updates/releases/download/v0.1.9.22/ShortsRecorder_0.1.9.22_Portable.zip",
+  "sha256": "72978e9f56798cd119f4f7cbbac68806c596937ce222010285d339939d78e392",
   "mandatory": false,
-  "releaseNotes": "녹화 리모트 위치 및 상태표시 개선, VRChat 등 특정 창 캡처 경계 오류 수정, 리모트 창 둥근 테두리 적용, UI 정렬 및 단축키 설명 개선"
+  "releaseNotes": "특정 창 소리만 녹음 기능 추가, 마이크 RNNoise 잡음 억제 추가, 영상·오디오 싱크 개선, 녹화 리모트 단축키 표시, 프리셋 우클릭 기능 개선"
 }
