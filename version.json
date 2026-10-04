@@ -1,7 +1,7 @@
 {
-  "version": "0.1.9.18",
-  "downloadUrl": "https://github.com/zxalw1/ShortsRecorder-Updates/releases/download/v0.1.9.18/ShortsRecorder_0.1.9.18_Portable.zip",
-  "sha256": "35a8b53f4eac2909cb07194ac1512ef7d258b8e34cb97b16b85a55db5495aba9",
+  "version": "0.1.9.20",
+  "downloadUrl": "https://github.com/zxalw1/ShortsRecorder-Updates/releases/download/v0.1.9.20/ShortsRecorder_0.1.9.20_Portable.zip",
+  "sha256": "063dd74491888dd336920a78af1a6b8b1fdd80587ad098c47c8d7157d66d122a",
   "mandatory": false,
-  "releaseNotes": "전체화면 녹화 시 녹화 테두리와 REC/FPS 오버레이가 영상에 포함되지 않도록 수정, 듀얼/멀티모니터 선택 안내를 각 모니터 중앙에 표시하도록 개선"
+  "releaseNotes": "UI 전면 개편, PC 자동추천 자동 적용, 프리셋 UI 개선, 라이트/다크 모드, 녹화 리모트 추가, 고급설정 정리, 자동자막 기본 활성화, 쇼츠 미리보기 및 프레임 위치 기능 개선, 프로그램 아이콘 및 UI 정렬 개선"
 }
