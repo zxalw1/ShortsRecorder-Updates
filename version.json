@@ -1,7 +1,7 @@
 {
-  "version": "0.1.9.22",
-  "downloadUrl": "https://github.com/zxalw1/ShortsRecorder-Updates/releases/download/v0.1.9.22/ShortsRecorder_0.1.9.22_Portable.zip",
-  "sha256": "72978e9f56798cd119f4f7cbbac68806c596937ce222010285d339939d78e392",
+  "version": "0.1.9.23",
+  "downloadUrl": "https://github.com/zxalw1/ShortsRecorder-Updates/releases/download/v0.1.9.23/ShortsRecorder_0.1.9.23_Portable.zip",
+  "sha256": "fb98a0d425a28b37a85b43572aebee3f99b1ad8d61ddae4ba82ffe8d4e8056bf",
   "mandatory": false,
-  "releaseNotes": "특정 창 소리만 녹음 기능 추가, 마이크 RNNoise 잡음 억제 추가, 영상·오디오 싱크 개선, 녹화 리모트 단축키 표시, 프리셋 우클릭 기능 개선"
+  "releaseNotes": "외부 영상 자막 편집 기능 추가, 자막별 개별 스타일/위치 적용, 영상 드래그앤드롭, 자막 편집 다시재생 및 큰 미리보기, 오디오 싱크 미세조정, 자막 프로젝트 설정 저장 위치 개선"
 }
