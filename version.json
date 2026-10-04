@@ -1,7 +1,7 @@
 {
-  "version": "0.1.9.20",
-  "downloadUrl": "https://github.com/zxalw1/ShortsRecorder-Updates/releases/download/v0.1.9.20/ShortsRecorder_0.1.9.20_Portable.zip",
-  "sha256": "063dd74491888dd336920a78af1a6b8b1fdd80587ad098c47c8d7157d66d122a",
+  "version": "0.1.9.21",
+  "downloadUrl": "https://github.com/zxalw1/ShortsRecorder-Updates/releases/download/v0.1.9.21/ShortsRecorder_0.1.9.21_Portable.zip",
+  "sha256": "182e7ea2061a110b00ddb26afcfd6feb31cc7da5464b32b6ffe5c4ec29e72d24",
   "mandatory": false,
-  "releaseNotes": "UI 전면 개편, PC 자동추천 자동 적용, 프리셋 UI 개선, 라이트/다크 모드, 녹화 리모트 추가, 고급설정 정리, 자동자막 기본 활성화, 쇼츠 미리보기 및 프레임 위치 기능 개선, 프로그램 아이콘 및 UI 정렬 개선"
+  "releaseNotes": "녹화 리모트 위치 및 상태표시 개선, VRChat 등 특정 창 캡처 경계 오류 수정, 리모트 창 둥근 테두리 적용, UI 정렬 및 단축키 설명 개선"
 }
