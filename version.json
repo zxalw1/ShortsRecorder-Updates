@@ -1,7 +1,7 @@
 {
-  "version": "0.1.9.24",
-  "downloadUrl": "https://github.com/zxalw1/ShortsRecorder-Updates/releases/download/v0.1.9.24/ShortsRecorder_0.1.9.24_Portable.zip",
-  "sha256": "70b82490d6d912b9f165a8f9fcfa1d955b0731dc5881254603b42cef429fda2d",
+  "version": "0.1.9.25",
+  "downloadUrl": "https://github.com/zxalw1/ShortsRecorder-Updates/releases/download/v0.1.9.25/ShortsRecorder_0.1.9.25_Portable.zip",
+  "sha256": "63292ab7366aee71dde77d524d89650700736b2c58bb57f12627e72cb0002796",
   "mandatory": false,
-  "releaseNotes": "자막 효과 및 효과 미리보기 추가, 자막 편집 UI 개선, 외부 영상 자막 편집 강화, 업데이트 캐시 방지, Undo/Redo, 자동 정리, 드롭다운 사용성 및 가독성 개선"
+  "releaseNotes": "SRT 자막 불러오기/저장 기능 추가, 외부 영상 자막 편집 및 자막 효과 기능 개선, 자막 미리보기와 편집 UI 안정화"
 }
