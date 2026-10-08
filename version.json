@@ -1,7 +1,7 @@
 {
-  "version": "0.1.9.26",
-  "downloadUrl": "https://github.com/zxalw1/ShortsRecorder-Updates/releases/download/v0.1.9.26/ShortsRecorder_0.1.9.26_Portable.zip",
-  "sha256": "d5528cc1033d362c4ad1172e7a1989d1442e65010bb5b170a40ea5f24350eaf1",
+  "version": "0.1.9.27",
+  "downloadUrl": "https://github.com/zxalw1/ShortsRecorder-Updates/releases/download/v0.1.9.27/ShortsRecorder_0.1.9.27_Portable.zip",
+  "sha256": "526884f2a29a61de5638cea2fa42392b1295ab72f0ce6c749e8b4909e5aaf846",
   "mandatory": false,
-  "releaseNotes": "영상·오디오 싱크 자동 보정 기능 추가, AV Sync 자동 캘리브레이션 적용, 녹화 시작 시 오디오 타이밍 안정화 및 기존 녹화 기능 호환성 개선"
+  "releaseNotes": "자막 편집 기능 대폭 개선: 현재 재생 자막 강조, 타임라인 자막 마커, 재생속도 x1.5/x2/x3, 방향키 탐색 및 시간복사 단축키, 드래그/Ctrl/Shift/Ctrl+A 다중선택, 선택 자막 일괄 스타일·위치·박스 적용, 자막 싱크 전체/구간/선택 항목 일괄 조절, 자동자막 오인식·맞춤법 후처리 및 마침표·쉼표 제거, 대량 자막 렌더링 안정화, 위→아래 드래그 선택 유지 오류 수정"
 }
