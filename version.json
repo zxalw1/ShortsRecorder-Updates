@@ -1,7 +1,7 @@
 {
-  "version": "0.1.9.27",
-  "downloadUrl": "https://github.com/zxalw1/ShortsRecorder-Updates/releases/download/v0.1.9.27/ShortsRecorder_0.1.9.27_Portable.zip",
-  "sha256": "526884f2a29a61de5638cea2fa42392b1295ab72f0ce6c749e8b4909e5aaf846",
+  "version": "0.1.9.28",
+  "downloadUrl": "https://github.com/zxalw1/ShortsRecorder-Updates/releases/download/v0.1.9.28/ShortsRecorder_0.1.9.28_Portable.zip",
+  "sha256": "fe56d2a2c18c5d0c6e35e854d0e838bbea0494c05eec5b29c82d09eb59f731f8",
   "mandatory": false,
-  "releaseNotes": "자막 편집 기능 대폭 개선: 현재 재생 자막 강조, 타임라인 자막 마커, 재생속도 x1.5/x2/x3, 방향키 탐색 및 시간복사 단축키, 드래그/Ctrl/Shift/Ctrl+A 다중선택, 선택 자막 일괄 스타일·위치·박스 적용, 자막 싱크 전체/구간/선택 항목 일괄 조절, 자동자막 오인식·맞춤법 후처리 및 마침표·쉼표 제거, 대량 자막 렌더링 안정화, 위→아래 드래그 선택 유지 오류 수정"
+  "releaseNotes": "자동자막 2차 맞춤법·띄어쓰기 후처리 추가, 반복 오인식 보정 및 마침표·쉼표 정리 개선, 자막 적용 영상 저장 중 상태 표시 및 중복 저장 방지, 자막 편집창과 기본 녹화창 분리, 자막 경계시간 판정 개선, 대량 자막 FFmpeg 렌더 호환성 개선"
 }
